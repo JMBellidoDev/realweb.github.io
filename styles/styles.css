@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    height :100%;
+    width: 100%;
+    background-image: url('../images/background.png');
+
+}
+
+main{
+    width: 60vw;
+    height: 60vh;
+    margin: 10vh auto;
+
+    border: 3px black solid;
+    border-radius: 5px;
+
+    text-align: center;
+
+    padding: 4vh;
+
+    background-color: white;
+}
+
+main h1{
+    margin-bottom: 4vh;
+}
